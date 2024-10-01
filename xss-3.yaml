@@ -1,5 +1,5 @@
 swagger: '2.0'
 info:
   title: XSS test
-  description: <script>confirm(3)<script>
+  description: test
   version: production
